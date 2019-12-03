@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+关于新建vue项目https://www.jianshu.com/p/fab89c48268c
